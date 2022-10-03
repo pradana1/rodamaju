@@ -1,9 +1,22 @@
 ###################
 Email dan Password
 ###################
-Admin@mail.com	
-password
+Email : Admin@mail.com	
+Pass : password
 
+###################
+Database ada di dalam folder project
+###################
+Nama Database : roda-maju.sql
+
+###################
+Menggunakan server Apache Xampp
+###################
+- paste folder project pada 
+XAMPP/htdocs/
+- nyalakan server xampp dan mysql 
+import database ke http://localhost/phpmyadmin/ 
+jalankan project dengan link http://localhost/roda-maju/ 
 
 ###################
 What is CodeIgniter
