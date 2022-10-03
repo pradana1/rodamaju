@@ -1,4 +1,11 @@
 ###################
+Email dan Password
+###################
+Admin@mail.com	
+password
+
+
+###################
 What is CodeIgniter
 ###################
 
